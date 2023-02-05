@@ -21,7 +21,6 @@ function Header() {
             <div class="relative">
               <a href="#contact">Contact</a>
             </div>
-            <button className="rounded border-2 border-slate-400 h-8"><span className="p-6"><b>Resume</b></span></button>
           </nav>
         </div>
       </div>
