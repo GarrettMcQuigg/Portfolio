@@ -9,13 +9,12 @@ import SideNav from "./components/SideNav";
 
 function App() {
   return (
-    <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 text-slate-400 h-screen">
+    <div className="bg-slate-900/[0.95] text-slate-300/[0.9] h-screen">
       <Header />
-      <SideNav />
       <Intro />
+      <Projects />
       <About />
       <Experience />
-      <Projects />
       <Contact />
     </div>
   );
