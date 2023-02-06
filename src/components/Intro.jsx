@@ -2,7 +2,7 @@ import React from "react";
 
 function Intro() {
   return (
-    <div className="flex items-center justify-center flex-col text-center pt-56 pb-10">
+    <div className="flex items-center justify-center flex-col text-center pt-56 pb-24">
       <h1 className="md:text-7xl font-bold">Garrett McQuigg</h1>
       <p className="pt-3 pb-5 text-4xl opacity-60 font-bold">
         Software Engineer & Web Developer
@@ -20,7 +20,7 @@ function Intro() {
       </p>
       <button className="rounded border-2 border-orange-400/[0.8] h-12 hover:border-orange-300/[0.9]">
         <span className="p-8 text-orange-400/[0.8] tracking-wider hover:text-orange-300/[0.9]">
-          <b>Resume</b>
+          <b>Résumé </b>
         </span>
       </button>
     </div>

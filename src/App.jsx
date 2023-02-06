@@ -9,7 +9,7 @@ import SideNav from "./components/SideNav";
 
 function App() {
   return (
-    <div className="bg-slate-900/[0.95] text-slate-300/[0.9] h-screen">
+    <div className="bg-slate-900/[0.95] text-slate-300/[0.9] max-h-full">
       <Header />
       <Intro />
       <Projects />
