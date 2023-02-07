@@ -5,11 +5,10 @@ import Experience from "./components/Experience";
 import Header from "./components/Header";
 import Intro from "./components/Intro";
 import Projects from "./components/Projects";
-import SideNav from "./components/SideNav";
 
 function App() {
   return (
-    <div className="bg-slate-900/[0.95] text-slate-300/[0.9] max-h-full">
+    <div className="bg-gray-900 text-stone-300 min-h-screen font-inter">
       <Header />
       <Intro />
       <Projects />
