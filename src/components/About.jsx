@@ -3,7 +3,7 @@ import me from "../images/me.jpg"
 
 function About() {
   return (
-    <div className="flex flex-row justify-center my-20 pl-48">
+    <div id="about" className="flex flex-row justify-center my-20 pl-48">
       <div className="w-4/12 pr-8">
         <h1 className="md:text-4xl font-bold text-gray-100 pb-4">About Me</h1>
         <p>

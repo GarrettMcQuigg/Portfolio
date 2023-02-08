@@ -12,7 +12,7 @@ function Header() {
             <div className="relative">
               <a href="#projects">Projects</a>
             </div>
-            <div className="relative">
+            <div className="relative fadedown-enter-done">
               <a href="#about">About</a>
             </div>
             <div className="relative">

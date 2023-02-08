@@ -10,19 +10,22 @@ function Intro() {
       <p className="text-lg max-w-2xl p-4 leading-7">
         I'm a full stack developer with a passion to learn and the drive to
         problem solve. <br />I received my bachelors degree from the{" "}
-        <b className="text-orange-700">University of Arkansas</b> as well
-        as my full stack certifications from the{" "}
-        <b className="text-orange-700">Springboard</b>{" "}
-        <i className="text-orange-700">Software Engineering Bootcamp</i>.
+        <b className="text-lime-500">University of Arkansas</b> as well as my
+        full stack certifications from the{" "}
+        <b className="text-lime-500">Springboard</b>{" "}
+        <i className="text-lime-500">Software Engineering Bootcamp</i>.
         <br />
         All of my projects are built from scratch with a heavy emphasis on
         following real world work-flow that I would use in a day-to-day job.
       </p>
-      <button className="rounded border-2 border-orange-700 h-12 hover:border-orange-300">
-        <span className="p-8 text-orange-700 tracking-wider hover:text-orange-300">
-          <b>Résumé </b>
+      <a
+        className="rounded border-2 border-lime-500 py-3 px-8 hover:bg-lime-900/[0.2]"
+        href=""
+      >
+        <span className="text-lime-500 tracking-wider">
+          <b>Résumé</b>
         </span>
-      </button>
+      </a>
     </div>
   );
 }

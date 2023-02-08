@@ -4,7 +4,10 @@ import ExperienceItems from "./ExperienceItems";
 
 function Experience() {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center">
+    <div
+      id="experience"
+      className="flex flex-col md:flex-row items-center justify-center"
+    >
       <div className="w-4/12">
         <h1 className="md:text-4xl font-bold text-gray-100 pb-4">Experience</h1>
         <div>
