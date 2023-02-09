@@ -5,7 +5,7 @@ function About() {
   return (
     <div
       id="about"
-      className="flex justify-center items-center flex-wrap md:flex-row sm:flex-col pt-24 pb-32"
+      className="flex justify-center items-center flex-wrap md:flex-row sm:flex-col pt-24 pb-16"
     >
       <div className="grid lg:grid-cols-1 xl:grid-cols-2 md:w-7/12">
         <div className="px-8">

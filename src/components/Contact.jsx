@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div
       id="contact"
-      className="flex flex-col items-center justify-center mt-20 pb-8"
+      className="flex flex-col items-center justify-center pt-32 pb-20"
     >
       <h1 className="md:text-4xl font-bold text-gray-100 pb-6">Contact</h1>
       <div className="flex flex-row">
