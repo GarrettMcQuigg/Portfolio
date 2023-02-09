@@ -8,7 +8,7 @@ import Projects from "./components/Projects";
 
 function App() {
   return (
-    <div className="bg-gray-900 text-stone-300 min-h-screen font-inter">
+    <div className=" bg-gradient-to-r from-gray-900 to-gray-800 text-stone-300 min-h-screen font-inter">
       <Header />
       <Intro />
       <Projects />
