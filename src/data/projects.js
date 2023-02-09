@@ -5,13 +5,13 @@ export default [
     title: "Business Management Software",
     imgUrl: "",
     stack: ["GoLang", "Typescript", "Angular", "HTML", "CSS"],
-    link: "google.com",
+    link: "https://google.com",
   },
   {
     title: "Spotify Connected Application",
     imgUrl: "",
     stack: ["NodeJS", "React", "HTML", "CSS"],
-    link: "google.com",
+    link: "https://google.com",
   },
   {
     title: "IP Tracker",
