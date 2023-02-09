@@ -10,7 +10,7 @@ function About() {
       <div className="grid lg:grid-cols-1 xl:grid-cols-2 md:w-7/12">
         <div className="px-8">
           <h1 className="md:text-4xl font-bold text-gray-100 pb-4">About Me</h1>
-          <p className="text-sm indent-12 tracking-wider">
+          <p className="text-sm indent-8 tracking-wider">
             My name is Garrett McQuigg and I am a 23 year old software engineer.
             I attended the <i>University of Arkansas</i> where I received my
             degree in business management. Shortly after graduation, I realized
@@ -20,7 +20,7 @@ function About() {
             pride and fulfillment.
           </p>{" "}
           <br />
-          <p className="text-sm indent-12 tracking-wider">
+          <p className="text-sm indent-8 tracking-wider">
             In September of 2021, I finally found my passion for software
             engineering, and wrote my first line of code. I started my journey
             as a self-taught front-end developer using <i>FreeCodeCamp.org</i>{" "}
@@ -29,14 +29,14 @@ function About() {
             development bootcamp through <i>Springboard Institution</i>.
           </p>
           <br />
-          <p className="text-sm indent-12 tracking-wider">
+          <p className="text-sm indent-8 tracking-wider">
             Through the bootcamp, as well as everything I have learned on my
             own, I believe I'm a very well rounded developer with the hunger to
             continue learning more, but can also be an asset to any team that I
             work with.
           </p>
           <br />
-          <p className="text-sm indent-12 tracking-wider">
+          <p className="text-sm indent-8 tracking-wider">
             Here is a list of technologies I've been working with:
           </p>
           <ul className="grid grid-cols-3 pt-4 list-disc list-inside text-lime-500 font-semibold pl-12">
