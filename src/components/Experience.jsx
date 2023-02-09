@@ -6,9 +6,9 @@ function Experience() {
   return (
     <div
       id="experience"
-      className="flex flex-col md:flex-row items-center justify-center"
+      className="flex flex-col items-center justify-center"
     >
-      <div className="w-4/12">
+      <div className="w-3/4 sm:w-6/12 xl:w-4/12">
         <h1 className="md:text-4xl font-bold text-gray-100 pb-4">Experience</h1>
         <div>
           {timeline.map((item) => (
