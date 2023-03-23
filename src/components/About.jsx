@@ -54,7 +54,7 @@ function About() {
         <div className="flex justify-center xl:justify-start lg:pl-8 pt-8 lg:pt-16 md:pl-2">
           <img
             src={me}
-            className="max-w-xs rounded-md md:h-fit hover:scale-110 hover:translate-y-6 hover:-translate-x-6 hover:skew-y-3 hover:duration-300"
+            className="max-w-xs rounded-md md:h-fit hover:scale-110 hover:translate-y-2 hover:-translate-x-2 hover:skew-y-1 hover:duration-300"
           />
         </div>
       </div>
