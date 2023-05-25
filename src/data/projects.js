@@ -1,6 +1,6 @@
-import ip from '../images/ip-track1.jpg';
-import spotify from '../images/spotify.jpg';
-import ffl from '../images/ffl.jpg';
+import ip from './thumbnails/ip.jpg';
+import spotify from './thumbnails/spotify.jpg';
+import ffl from './thumbnails/ffl.jpg';
 
 export default [
   {
