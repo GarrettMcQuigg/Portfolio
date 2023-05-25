@@ -10,7 +10,7 @@ export default [
     link: 'https://portfolio-dlrfantasy.netlify.app/',
   },
   {
-    title: 'Spotify Connected Application',
+    title: 'Spotify Connected Application 🔐NEED ACCESS🔐',
     imgUrl: spotify,
     stack: ['NodeJS', 'Express', 'React', 'HTML', 'CSS'],
     link: 'https://spotify-gbm.herokuapp.com/',
