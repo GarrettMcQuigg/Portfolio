@@ -1,4 +1,4 @@
-import IpTracker from '../images/ip-track1.jpg';
+import IP from '../images/ip-track1.jpg';
 import Spotify from '../images/spotify.jpg';
 import FFL from '../images/ffl.jpg';
 
@@ -17,7 +17,7 @@ export default [
   },
   {
     title: 'IP Tracker',
-    imgUrl: IpTracker,
+    imgUrl: IP,
     stack: ['Python', 'Flask', 'HTML', 'CSS'],
     link: 'https://gbm-ip-tracker.herokuapp.com/',
   },
