@@ -25,7 +25,7 @@ function About() {
           </p>
           <br />
           <p className='text-sm indent-8 tracking-wider'>Here is a list of technologies I've been working with:</p>
-          <ul className='grid grid-cols-3 pt-4 list-disc list-inside text-lime-500 font-semibold pl-12'>
+          <ul className='grid grid-cols-3 pt-4 list-disc list-inside text-lime-500 font-semibold md:pl-12'>
             <li>Golang</li>
             <li>React</li>
             <li>Angular</li>
