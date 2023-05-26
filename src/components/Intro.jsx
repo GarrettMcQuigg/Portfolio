@@ -15,7 +15,7 @@ function Intro() {
       <a className='rounded border-2 border-lime-500 py-3 px-8 hover:bg-lime-900/[0.2]' href=''>
         <span className='text-lime-500 tracking-wider'>
           <b>
-            <a href='https://docs.google.com/document/d/1CAhEQcZdn77EubXhLD4-9ZWk0cAV44txxeVnrRBCZAM/edit?usp=sharing' target='_blank'>
+            <a href='https://drive.google.com/file/d/1M6HHFkvwDxn_F4ppYrSMcXlWMUovd4Ok/view?usp=sharing' target='_blank'>
               Résumé
             </a>
           </b>
