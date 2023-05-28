@@ -32,7 +32,7 @@ function About() {
             <li>Angular</li>
             <li>Express</li>
             <li>Python</li>
-            <li>Ruby on Rails</li>
+            <li>Javascript</li>
             <li>Typescript</li>
           </ul>
         </div>
