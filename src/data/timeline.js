@@ -1,11 +1,5 @@
 export default [
   {
-    date: 'December, 2022',
-    title: 'Berwald Technology Internship',
-    details:
-      'Developed a business management software using GoLang, Angular, Typescript, HTML, and CSS. The project included user authentication, company integration, a beautiful/clean UI, Followed industry standard work flow, and much more.',
-  },
-  {
     date: 'May, 2022',
     title: 'Springboard Software Engineering Bootcamp',
     details:

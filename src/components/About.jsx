@@ -1,5 +1,5 @@
 import React from 'react';
-import me from '../images/me.jpg';
+import me from '../images/me.jpeg';
 
 function About() {
   return (
@@ -24,7 +24,7 @@ function About() {
           </p>
           <br />
           <p className='text-sm indent-8 tracking-wider'>Here is a list of technologies I've been working with:</p>
-          <ul className='grid grid-cols-3 pt-4 list-disc list-inside text-lime-500 font-semibold md:pl-12'>
+          <ul className='grid justify-center sm:grid-cols-3 pt-4 list-disc list-inside text-lime-500 font-semibold '>
             <li>Golang</li>
             <li>React</li>
             <li>Flask</li>
@@ -37,7 +37,7 @@ function About() {
           </ul>
         </div>
         <div className='flex justify-center xl:justify-start lg:pl-8 pt-8 lg:pt-16 md:pl-2'>
-          <img src={me} className='max-w-xs rounded-full md:h-fit hover:scale-110 hover:translate-y-2 hover:-translate-x-2 hover:skew-y-1 hover:duration-300' />
+          <img src={me} className='rounded-full h-3/6 md:h-4/6 hover:scale-110 hover:translate-y-2 hover:-translate-x-2 hover:skew-y-1 hover:duration-300' />
         </div>
       </div>
     </div>
